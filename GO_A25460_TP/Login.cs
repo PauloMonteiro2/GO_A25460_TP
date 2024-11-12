@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GO_A25460_TP
 {
-    internal class Login
+    public class Login
     {
         public string Username { get; private set; }
         private string Password { get; set; }
